@@ -1,4 +1,5 @@
 This is my first Web development project.
 
-Description:
 
+Description: 
+In this, I have used HTML, CSS, and JavaScript.
