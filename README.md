@@ -30,7 +30,7 @@ This weather application allows users to check the current weather conditions fo
 
 ![screenshot](https://github.com/raghavpareek99/Weather-site-/assets/136429442/8c2634ca-4b1e-4a36-8286-8f24154428c3)
 
-
+👉 [Live Demo](https://weather1810.netlify.app/)
 
 
 
